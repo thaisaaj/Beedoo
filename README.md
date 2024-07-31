@@ -25,8 +25,6 @@
 
 1º) O formulário de cadastro deve conter campos para o nome e a descrição do curso, nome do instrutor, URL da capa, data de início e fim do curso, número de vagas que serão disponibilizadas e a modalidade (Presencial ou Online).
 
-2º) O sistema deve validar se existem campos de preenchimento obrigatório e não permitir a inserção de cursos com informações faltantes.
+2º) Ao listar os cursos, estes devem informar a data de início e fim, o número de vagas e exibir a capa inserida.
 
-3º) Ao listar os cursos, estes devem informar a data de início e fim, o número de vagas e exibir a capa inserida.
-
-4º) Todo curso cadastrado pode ser excluído da plataforma.
+3º) Todo curso cadastrado pode ser excluído da plataforma.
