@@ -1,8 +1,8 @@
 # User Story do Projeto Beedoo 
 
-## Cadastrado de Curso
+## Cadastro de Curso
 
-1º) Como usuário sem necessidade de Login.
+1º) Como usuário com necessidade de Login.
 
 2º) Eu quero ter a opção de cadastrar novos cursos.
 
@@ -11,7 +11,7 @@
 
 ## Listagem de Cursos
 
-4º) Como usuário sem necessidade de login
+4º) Como usuário com necessidade de login
 
 5º) Quero poder consultar a lista de cursos cadastrados na plataforma.
 
