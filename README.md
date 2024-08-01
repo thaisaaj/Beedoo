@@ -30,3 +30,12 @@
 3º) Todo curso cadastrado pode ser excluído da plataforma.
 
 4º) Plataforma precisa ser compatível com diferentes dispositivos, seu layout deve se ajustar. 
+
+
+#Links para acesso:
+
+## Google Docs
+
+## Google Drive
+
+https://docs.google.com/spreadsheets/d/12P6qDAU7ufaZnhReRPDzIGmsevr6AvXjDM8otqeApPU/edit?usp=sharing 
