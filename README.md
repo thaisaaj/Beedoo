@@ -28,3 +28,5 @@
 2º) Ao listar os cursos, estes devem informar a data de início e fim, o número de vagas e exibir a capa inserida.
 
 3º) Todo curso cadastrado pode ser excluído da plataforma.
+
+4º) Plataforma precisa ser compatível com diferentes dispositivos, seu layout deve se ajustar. 
